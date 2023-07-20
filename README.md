@@ -3,7 +3,7 @@
  Step 1. Install truffle suite and dependencies
  $ npm install -g truffle
  $ npm install 
- -----------------------------------------------------------------------------
+
  Step 2  Create a folder 
  $ mkdir TokenContract
  $ cd TokenContract
