@@ -8,7 +8,7 @@
  $ mkdir TokenContract
  $ cd TokenContract
 
-Step 3. Copy the project to the folder (I have used truffle pet-shop-box boilerplate)
+Step 3. Copy the project to the folder (I have used truffle pet-shop-box boilerplate for the project)
 
 Step 4. Start Ganache
 This will start your local blockchain instance.
